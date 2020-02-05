@@ -12,3 +12,6 @@ play_validation.py
 
 PredictedPlayerStats.py
 - This is an extension of the PredictedBatAvg.py program. A user inputs a player's first and last name to the program which the Neural Network trained on StatCast data will return an estimated batting average and slugging percentage based on this players StatCast data.
+
+PitcherData.py
+- This program is meant to be used as a tool to compare a pitcher's pitch data before and after a specified date. This program takes as user input a pitcher's first and last name, as well as two date ranges to compare data, and returns a plot of the pitcher's pitch data as well as a data table with info such as Speed, Release Extension, Break, Exit Velocity, and Launch Angle. 
