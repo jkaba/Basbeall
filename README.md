@@ -15,3 +15,6 @@ PredictedPlayerStats.py
 
 PitcherData.py
 - This program is meant to be used as a tool to compare a pitcher's pitch data before and after a specified date. This program takes as user input a pitcher's first and last name, as well as two date ranges to compare data, and returns a plot of the pitcher's pitch data as well as a data table with info such as Speed, Release Extension, Break, Exit Velocity, and Launch Angle. 
+
+MLB_Attendance.r
+- This R program was used for an analysis in regards to MLB Attendance, and looks into potentially factors which could affect attendance. 
