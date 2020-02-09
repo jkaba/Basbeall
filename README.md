@@ -7,6 +7,9 @@ This ReadMe will be updated as files get uploaded.
 AtBatSim.py
 - An At Bat Simulator written in Python. Current settings are set to 100 at bat simulations, could change to ask for user requirments. Probabilities are completely random, and are not set to any particular hitter or pitcher. Probabilities can be tuned with the appropriate data to focus on a particular pitcher or hitter. 
 
+HistoricTeams.R
+- R Script, to take a look and compare teams throughout history. Plots include: correlation matrix, relationship between variables, parallel coordinate plots, K means Clustering, and hierarchical structure through a dendrogram
+
 HomeRunScraper.py
 - Python program which scrapes home run data from Fox Sports, calculates the mean standard deviation, and variance from year to year over a 20 year period. 
 
