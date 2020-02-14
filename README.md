@@ -1,9 +1,15 @@
 # Baseball
 Home for Baseball Projects
 
-This repo will be the home to Baseball projects which I have done on my own.
+This repo will be the home to Baseball projects which I have done.
+
 This ReadMe will be updated as files get uploaded.
 
+ML Player Decline
+- This project uses Machine Learning to determine whether a player has past their peak, or if their peak has yet to come.
+
+ML Relief Pitching
+- This project uses Machine Learning to try and predict when a relief pitcher will give up a run. 
 AtBatSim.py
 - An At Bat Simulator written in Python. Current settings are set to 100 at bat simulations, could change to ask for user requirments. Probabilities are completely random, and are not set to any particular hitter or pitcher. Probabilities can be tuned with the appropriate data to focus on a particular pitcher or hitter. 
 
@@ -12,9 +18,6 @@ HistoricTeams.R
 
 HomeRunScraper.py
 - Python program which scrapes home run data from Fox Sports, calculates the mean standard deviation, and variance from year to year over a 20 year period. 
-
-ML Player Decline
-- This project uses Machine Learning to determine whether a player has past their peak, or if their peak has yet to come.
 
 MLB_Attendance.r
 - This R program was used for an analysis in regards to MLB Attendance, and looks into potential factors which could affect attendance. 
