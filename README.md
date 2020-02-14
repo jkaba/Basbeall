@@ -13,6 +13,9 @@ HistoricTeams.R
 HomeRunScraper.py
 - Python program which scrapes home run data from Fox Sports, calculates the mean standard deviation, and variance from year to year over a 20 year period. 
 
+ML Player Decline
+- This project uses Machine Learning to determine whether a player has past their peak, or if their peak has yet to come.
+
 MLB_Attendance.r
 - This R program was used for an analysis in regards to MLB Attendance, and looks into potential factors which could affect attendance. 
 
