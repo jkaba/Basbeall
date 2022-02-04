@@ -32,3 +32,5 @@ PredictedBatAvg.py:
 PredictedPlayerStats.py
 - This is an extension of the PredictedBatAvg.py program. A user inputs a player's first and last name to the program which the Neural Network trained on StatCast data will return an estimated batting average and slugging percentage based on this players StatCast data.
 
+QualifyingOffer.R
+- This was a task from an assessment for an R&D role. The program calculates the Qualifying Offer based on  user provided data, and returns the monetary value for the Qualifying Offer as well as a .csv containing the top 125 salaries.
