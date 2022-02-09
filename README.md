@@ -17,6 +17,9 @@ HomeRunScraper.py
 MLB_Attendance.r
 - This R program was used for an analysis in regards to MLB Attendance, and looks into potential factors which could affect attendance. 
 
+MLOA_App.py
+- Simple Web app made in Python Dash as part of an assessment for a position of Major League Operations Analyst. Each page contains a look at different topics. Topics include: Release Speed vs. Spin Rate; Spin Rate per Pitch; Event Occurrences by Pitch thrown by Pitcher; Event Occurances by balls-strikes count.
+
 NoHitterVerlander.r
 - R script that takes a look at Justin Verlander's 3rd career no hitter which was Sept. 1, 2019 against the Toronto Blue Jays
 
