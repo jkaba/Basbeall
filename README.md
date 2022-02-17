@@ -29,6 +29,9 @@ PitcherData.py
 PlayValidation.py
 - A method which validates whether or not a transition from one game state to another can validly occur as a play. For this method, a "play" is the period from one instance when a pitcher has the ball and may legally pitch to either the next such instance or the end of a half-inning. 
 
+Player swing probability.ipynb
+- This model attempts to determine whether or not an MLB hitter will swing at a given pitch. model is trained using pitch-by-pitch data from StatCast and used the following features: pitch speed, pitch location, the velocity in the x,y,z, directions, the count the pitch was thrown in, the movement of the pitch in the x,z directions, and the pitch type of the previous pitch. 
+
 PredictedBatAvg.py: 
 - This is a Neural Network project in which given Exit Velocity and Launch Angles as User Inputs a Neural Network trained on StatCast data will produce the estimated batting average and slugging percentage.
 
