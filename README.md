@@ -1,9 +1,5 @@
 # Baseball
-Home for Baseball Projects
-
 This repo will be the home to Baseball projects which I have done.
-
-This ReadMe will be updated as files get uploaded.
 
 AtBatSim.py
 - An At Bat Simulator written in Python. Current settings are set to 100 at bat simulations, could change to ask for user requirments. Probabilities are completely random, and are not set to any particular hitter or pitcher. Probabilities can be tuned with the appropriate data to focus on a particular pitcher or hitter. 
@@ -13,6 +9,9 @@ HistoricTeams.R
 
 HomeRunScraper.py
 - Python program which scrapes home run data from Fox Sports, calculates the mean standard deviation, and variance from year to year over a 20 year period. 
+
+KBO_SwingMiss_Probability.ipynb
+- This is a model built to determine the odds of a KBO pitcher getting a hitter to swing and miss at a fastball. This was originally a technical prompt for a data analyst position with a KBO team. 
 
 MLB_Attendance.r
 - This R program was used for an analysis in regards to MLB Attendance, and looks into potential factors which could affect attendance. 
